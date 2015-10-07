@@ -80,9 +80,8 @@ PRODUCT_PACKAGES += \
     PhaseBeam
 
 # AudioFX
-PRODUCT_PACKAGES += \
-    AudioFX \
-    Eleven
+#PRODUCT_PACKAGES += \
+#    AudioFX
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
